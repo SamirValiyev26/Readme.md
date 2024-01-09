@@ -1,3 +1,4 @@
 Example
-
-Hello world
+'''
+Console.Writeline("Hello world");
+'''
